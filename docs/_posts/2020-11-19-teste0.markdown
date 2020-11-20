@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Nova Postagem de teste"
+date:   2020-11-19 00:29:01 -0300
+categories: jekyll update
+---
+Nova postagem
